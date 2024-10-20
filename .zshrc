@@ -53,6 +53,7 @@ alias re="nr release"
 # -------------------------------- #
 
 # Use github/hub
+# brew install hub
 alias git=hub
 
 # Go to project root
